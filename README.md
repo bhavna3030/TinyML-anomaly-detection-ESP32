@@ -49,4 +49,4 @@ https://drive.google.com/file/d/1IDL_qp9vv_jcccaxsPYauwEpgxADsc_B/view?usp=drive
 
 ## Built By
 ECE Graduate — Bangalore, India
-Looking for AI Engineering internships in UAE and Singapore
+Looking for AI Engineering internships 
