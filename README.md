@@ -43,6 +43,9 @@ Real-time anomaly detection running entirely on ESP32 — no cloud, no internet,
 ## Results
 - Normal state: low anomaly scores
 - Anomaly state: high scores, instant LED alert
+  <img width="3024" height="4032" alt="IMG_5113" src="https://github.com/user-attachments/assets/692383d8-ced2-4dd2-a73c-d4d1a9c8d5a2" />
+<img width="193" height="221" alt="Screenshot 2026-05-27 130551" src="https://github.com/user-attachments/assets/a4785155-bc7e-4a4c-b694-69ef11a22454" />
+
 
 ## Built By
 ECE Graduate — Bangalore, India
