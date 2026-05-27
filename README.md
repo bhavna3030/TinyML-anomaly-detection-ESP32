@@ -1,6 +1,8 @@
 # ESP32 TinyML Anomaly Detection
 
 Real-time anomaly detection running entirely on ESP32 — no cloud, no internet, zero dependency.
+<img width="997" height="961" alt="image" src="https://github.com/user-attachments/assets/5e40df87-7db9-4032-902c-c339a9cde65c" />
+
 
 ## Demo
 [Insert Loom video link here]
