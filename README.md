@@ -6,7 +6,7 @@ Real-time anomaly detection running entirely on ESP32 — no cloud, no internet,
 
 
 ## Demo
-[Insert Loom video link here]
+https://drive.google.com/file/d/1IDL_qp9vv_jcccaxsPYauwEpgxADsc_B/view?usp=drivesdk
 
 ## Hardware
 - ESP32 Development Board
