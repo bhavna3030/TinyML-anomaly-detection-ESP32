@@ -18,6 +18,8 @@ Real-time anomaly detection running entirely on ESP32 — no cloud, no internet,
 - Detects anomalies in under 20ms
 - LED blinks instantly on anomaly detection
 - Zero cloud dependency — works offline
+  <img width="694" height="678" alt="image" src="https://github.com/user-attachments/assets/d361b55c-b2ef-433a-b84e-2389d5594658" />
+
 
 ## Tech Stack
 - Edge Impulse — data collection and model training
